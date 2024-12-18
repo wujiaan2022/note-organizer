@@ -1,0 +1,1 @@
+console.log([...Array(10).keys()].filter(x => x % 2 === 0))
